@@ -1,0 +1,98 @@
+\begin{thebibliography}{18}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[{World Bank}(2024)]{worldbank2024poverty}
+{World Bank}.
+\newblock Poverty overview: Development news, research, data, April 2024.
+\newblock Retrieved May 1, 2024, from \url{https://www.worldbank.org/en/topic/poverty/overview}.
+
+\bibitem[Shulla et~al.(2021)Shulla, Voigt, Cibian, Scandone, Martinez, Nelkovski, and Salehi]{shulla2021effects}
+Katharina Shulla, Benedikt~F. Voigt, Sabin Cibian, Giovanni Scandone, Elena Martinez, Filip Nelkovski, and Pegah Salehi.
+\newblock Effects of covid-19 on the sustainable development goals (sdgs).
+\newblock \emph{Discover Sustainability}, 2:\penalty0 1--19, 2021.
+
+\bibitem[Riegner(2016)]{riegner2016implementing}
+Michael Riegner.
+\newblock Implementing the data revolution for the post-2015 sustainable development goals: Toward a global administrative law of information.
+\newblock \emph{World Bank Legal Review}, 7:\penalty0 17, 2016.
+
+\bibitem[Grindle(2004)]{grindle2004good}
+Merilee~S. Grindle.
+\newblock Good enough governance: Poverty reduction and reform in developing countries.
+\newblock \emph{Governance}, 17:\penalty0 525--548, 2004.
+
+\bibitem[Decerf(2023)]{decerf2023preference}
+Benoit Decerf.
+\newblock A preference-based theory unifying monetary and non-monetary poverty measurement.
+\newblock \emph{Journal of Public Economics}, 222:\penalty0 104898, 2023.
+
+\bibitem[Albert(2023)]{albert2023analysis}
+Jose Ramon~G. Albert.
+\newblock [analysis] on poverty lines and counting the poor, May 2023.
+\newblock Retrieved from \url{https://www.rappler.com/voices/thought-leaders/228230-analysis-poverty-lines-counting-poor-filipino}.
+
+\bibitem[Briones et~al.(2021)Briones, Lopez, Elumbre, and Angangco]{briones2021income}
+Karen~Joyce Briones, John Lopez, Ron~Joseph Elumbre, and Timothy~Miguel Angangco.
+\newblock Income, consumption, and poverty measurement in the philippines, 2021.
+\newblock Retrieved from \url{https://mpra.ub.uni-muenchen.de/106025/}.
+
+\bibitem[Alkire et~al.(2015)Alkire, Roche, Ballon, Foster, Santos, and Seth]{alkire2015multidimensional}
+Sabina Alkire, Jose~Manuel Roche, Paola Ballon, James Foster, Maria~Emma Santos, and Suman Seth.
+\newblock \emph{Multidimensional poverty measurement and analysis}.
+\newblock Oxford University Press, USA, 2015.
+
+\bibitem[Watson et~al.(2017)Watson, Whelan, Maître, and Williams]{watson2017non}
+Dorothy Watson, Christopher~T. Whelan, Bertrand Maître, and James Williams.
+\newblock Non-monetary indicators and multiple dimensions: The esri approach to poverty measurement.
+\newblock \emph{The Economic and Social Review}, 48\penalty0 (4):\penalty0 369--392, 2017.
+
+\bibitem[Shobana and Umamaheswari(2021)]{shobana2021forecasting}
+G.~Shobana and K.~Umamaheswari.
+\newblock Forecasting by machine learning techniques and econometrics: A review.
+\newblock In \emph{2021 6th International Conference on Inventive Computation Technologies (ICICT)}, pages 1010--1016. IEEE, 2021.
+
+\bibitem[Li et~al.(2017)Li, Cheng, Wang, Morstatter, Trevino, Tang, and Liu]{li2017feature}
+Jundong Li, Kewei Cheng, Suhang Wang, Fred Morstatter, Robert~P. Trevino, Jiliang Tang, and Huan Liu.
+\newblock Feature selection: A data perspective.
+\newblock \emph{ACM Computing Surveys (CSUR)}, 50\penalty0 (6):\penalty0 1--45, 2017.
+
+\bibitem[Tingzon et~al.(2019)Tingzon, Orden, Go, Sy, Sekara, Weber, and Kim]{tingzon2019mapping}
+Isaiah Tingzon, Abigail Orden, Keane~Teruel Go, Selena Sy, Vedran Sekara, Ingmar Weber, and Dong Kim.
+\newblock Mapping poverty in the philippines using machine learning, satellite imagery, and crowd-sourced geospatial information.
+\newblock In \emph{The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences}, volume~42, pages 425--431, 2019.
+
+\bibitem[Ledesma et~al.(2020)Ledesma, Garonita, Flores, Tingzon, and Dalisay]{ledesma2020interpretable}
+Carla Ledesma, Omar~Laurente Garonita, Leonardo~Jay Flores, Isaiah Tingzon, and Delia Dalisay.
+\newblock Interpretable poverty mapping using social media data, satellite images, and geospatial information, 2020.
+\newblock arXiv preprint arXiv:2011.13563.
+
+\bibitem[Talingdan(2019)]{talingdan2019performance}
+John~Arlo Talingdan.
+\newblock Performance comparison of different classification algorithms for household poverty classification.
+\newblock In \emph{2019 4th International Conference on Information Systems Engineering (ICISE)}, pages 11--15. IEEE, 2019.
+
+\bibitem[Repollo et~al.(2021)Repollo, Aurelius, and Robielos]{repollo2021applying}
+Maria~Pilar Repollo, Renier Aurelius, and Carl Robielos.
+\newblock Applying clustering algorithm on poverty analysis in a community in the philippines.
+\newblock In \emph{IEOM Society International}, pages 1511--1521, 2021.
+
+\bibitem[Li et~al.(2022)Li, Yu, Échevin, and Fan]{li2022poverty}
+Qiang Li, Sherry Yu, Damien Échevin, and Ming Fan.
+\newblock Is poverty predictable with machine learning? a study of dhs data from kyrgyzstan.
+\newblock \emph{Socio-Economic Planning Sciences}, 81:\penalty0 101195, 2022.
+
+\bibitem[Usmanova et~al.(2022)Usmanova, Aziz, Rakhmonov, and Osamy]{usmanova2022utilities}
+Aigul Usmanova, Azeddine Aziz, Dostonbek Rakhmonov, and Walid Osamy.
+\newblock Utilities of artificial intelligence in poverty prediction: a review.
+\newblock \emph{Sustainability}, 14\penalty0 (21):\penalty0 14238, 2022.
+
+\bibitem[Bentéjac et~al.(2021)Bentéjac, Csörgő, and Martínez-Muñoz]{bentejac2021comparative}
+Christophe Bentéjac, András Csörgő, and Guillermo Martínez-Muñoz.
+\newblock A comparative analysis of gradient boosting algorithms.
+\newblock \emph{Artificial Intelligence Review}, 54:\penalty0 1937--1967, 2021.
+
+\end{thebibliography}
